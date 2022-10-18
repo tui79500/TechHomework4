@@ -4,7 +4,7 @@
 
 <html>
 <head runat="server">
-    <title>PetMed System</title>
+    <title>PetsMed System</title>
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
 
@@ -17,6 +17,8 @@
             height: 100%;
             font-family: 'Times New Roman', sans-serif;
             scroll-behavior: smooth;
+            padding: 40px;
+            background-color: lightgray;
         }
 
         .faded {
