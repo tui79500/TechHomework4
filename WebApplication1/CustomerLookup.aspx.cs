@@ -7,14 +7,9 @@ using System.Web.UI.WebControls;
 
 namespace WebApplication1
 {
-    public partial class Default : System.Web.UI.Page
+    public partial class MedRequest : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        protected void LoginView1_ViewChanged(object sender, EventArgs e)
         {
 
         }
